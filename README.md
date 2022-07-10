@@ -1,4 +1,2 @@
 # git-learn
-Mytest
-Mytest
-Mytest
+bc-c first commit
